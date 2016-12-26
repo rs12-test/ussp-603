@@ -2,7 +2,5 @@
 *_s git-encoding=ISO8859-1 working-tree-encoding=ISO8859-1                                           
 *_b git-encoding=ISO8859-1 working-tree-encoding=IBM-1047
 *_bin binary
-*1 git-encoding=binary working-tree-encoding=binary
-*2 git-encoding=binary working-tree-encoding=binary
 *_a git-encoding=ISO8859-1
 *_c working-tree-encoding=IBM-1047                                           
